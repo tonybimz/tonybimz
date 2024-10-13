@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonybimz
+- 👋 Hi, I’m bimz
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on evrythings bcs i just want to learn <3
